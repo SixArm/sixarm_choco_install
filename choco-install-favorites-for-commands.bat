@@ -1,4 +1,4 @@
-## Commands
+REM Commands
 choco install -y 7zip
 choco install -y ack
 choco install -y curl

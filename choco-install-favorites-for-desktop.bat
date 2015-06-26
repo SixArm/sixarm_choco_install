@@ -1,4 +1,4 @@
-## Desktop
+REM Desktop
 choco install -y adobeair
 choco install -y adobereader
 choco install -y adobeshockwaveplayer

@@ -1,4 +1,4 @@
-## Databases
+REM Databases
 choco install -y linqpad4
 choco install -y mongodb
 choco install -y mssqlserver2012express

@@ -1,4 +1,4 @@
-## Editors
+REM Editors
 choco install -y atom
 choco install -y brackets
 choco install -y eclipse

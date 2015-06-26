@@ -1,4 +1,4 @@
-## Sysops
+REM Sysops
 choco install -y autohotkey
 choco install -y baretail
 choco install -y ccleaner

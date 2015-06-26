@@ -1,4 +1,4 @@
-## Programming
+REM Programming
 choco install -y compass
 choco install -y dotnet4.5.2
 choco install -y erlang
@@ -16,23 +16,23 @@ choco install -y ruby
 choco install -y rubygems
 choco install -y vagrant
 choco install -y vcredist2013
-## Building
+REM Building
 choco install -y ant
 choco install -y doxygen.portable
 choco install -y cmake
 choco install -y maven
 choco install -y yeoman
-## Versioning
+REM Versioning
 choco install -y hg
 choco install -y git
 choco install -y sourcetree
 choco install -y svn
-## Emulating
+REM Emulating
 choco install -y cygwin
 choco install -y docker
 choco install -y vagrant
 choco install -y virtualbox
-## Serving
+REM Serving
 choco install rabbitmq
-## Graphics
+REM Graphics
 choco install -y imagemagick

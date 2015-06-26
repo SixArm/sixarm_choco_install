@@ -7,7 +7,7 @@ If you would like to contribute a donation, an easy way is to use PayPal to sixa
 If you would like to contribute help, the next section is for you.
 
 
-## Contributing to the source
+REM Contributing to the source
 
 We love pull requests for improvments to the source code and documentation.
 
